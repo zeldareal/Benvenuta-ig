@@ -71,5 +71,3 @@
 
 # special thanks to
 
-[@migueravila](https://github.com/migueravila/Bento)
-[@3r3bu5x9](https://github.com/3r3bu5x9/Prismatic-Night)
